@@ -1,0 +1,19 @@
+{
+  "name": "Dr. N. Bharathiraja",
+  "designation": "Associate Professor",
+  "department": "Computer Science and Engineering",
+  "institution": "Dayananda Sagar University",
+  "location": "Bangalore, India",
+  "email": "rajamesoft@gmail.com",
+  "phone": "+91 8248361817",
+  "social": {
+    "orcid": "0000-0003-4917-6691",
+    "google_scholar": "https://scholar.google.co.in/citations?user=eBPJj8oAAAAJ&hl=en"
+  },
+  "stats": {
+    "scopus_publications": "50+",
+    "scie_wos_publications": "20+",
+    "google_scholar_h_index": 15,
+    "scopus_h_index": 13
+  }
+}
