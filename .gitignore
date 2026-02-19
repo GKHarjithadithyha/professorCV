@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Ignore raw resources and generic docs
+*.md
+*.pdf
+
+# Whitelist project critical files
+!README.md
+!src/content/*.md
+!public/documents/*.pdf
+!_project_resources/
