@@ -2,19 +2,28 @@
 
 @theme {
   --font-sans: var(--font-lexend), ui-sans-serif, system-ui, sans-serif;
-  
-  --color-glass-surface: rgba(255, 255, 255, 0.25);
+
+  --color-glass-surface: rgba(222, 244, 252, 0.25);
   --color-glass-border: rgba(255, 255, 255, 0.35);
-  --shadow-glass: 0 4px 30px rgba(0, 0, 0, 0.1);
+  --shadow-glass: 0 8px 30px rgba(0, 0, 0, 0.08);
 }
 
 @layer utilities {
   .glass-panel {
-    @apply bg-white/40 backdrop-blur-xl border border-white/40 shadow-sm transition-all duration-300;
+    background: var(--color-glass-surface);
+    backdrop-filter: blur(18px);
+    border: 1px solid var(--color-glass-border);
+    box-shadow: var(--shadow-glass);
+    @apply transition-all duration-300;
   }
-  
+
   .glass-card {
-    @apply bg-white/60 backdrop-blur-md border border-white/50 shadow-sm rounded-2xl transition-all duration-300 hover:shadow-md hover:-translate-y-1;
+    background: var(--color-glass-surface);
+    backdrop-filter: blur(18px);
+    border: 1px solid var(--color-glass-border);
+    box-shadow: var(--shadow-glass);
+    border-radius: 18px;
+    @apply transition-all duration-300 hover:shadow-md hover:-translate-y-1;
   }
 
   .glass-button {
@@ -24,21 +33,10 @@
 
 body {
   @apply bg-slate-50 text-slate-900;
-  background-image: 
-    radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), 
-    radial-gradient(at 50% 0%, hsla(225,39%,30%,1) 0, transparent 50%), 
-    radial-gradient(at 100% 0%, hsla(339,49%,30%,1) 0, transparent 50%);
+  background-image:
+    radial-gradient(at 0% 0%, hsla(253, 16%, 7%, 1) 0, transparent 50%),
+    radial-gradient(at 50% 0%, hsla(225, 39%, 30%, 1) 0, transparent 50%),
+    radial-gradient(at 100% 0%, hsla(339, 49%, 30%, 1) 0, transparent 50%);
   background-attachment: fixed;
-  background-color: #f8fafc; /* Fallback */
+  background-color: #f8fafc;
 }
-
-/* Light mode background override for academic feel */
-@media (prefers-color-scheme: light) {
-  body {
-    background-image: 
-      radial-gradient(circle at 15% 50%, rgba(222, 244, 252, 0.4), transparent 25%),
-      radial-gradient(circle at 85% 30%, rgba(234, 242, 255, 0.4), transparent 25%);
-    background-color: #f8fafc;
-  }
-}
-

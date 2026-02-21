@@ -8,12 +8,12 @@ export function PublicationsSection() {
     return (
         <section id="publications" className="py-20">
             <Container>
-                <div className="flex flex-col md:flex-row md:items-end justify-between mb-12">
+                <div className="flex flex-col md:flex-row md:items-end justify-between mb-8 md:mb-12">
                     <div>
-                        <span className="text-blue-600 font-semibold tracking-wider uppercase text-sm">Academic Output</span>
-                        <h2 className="text-4xl font-bold mt-2 text-slate-900">Selected Publications</h2>
+                        <span className="text-blue-600 font-semibold tracking-wider uppercase text-xs md:text-sm">Academic Output</span>
+                        <h2 className="text-3xl md:text-4xl font-bold mt-2 text-slate-900">Selected Publications</h2>
                     </div>
-                    <p className="text-slate-500 mt-4 md:mt-0 max-w-md text-right">
+                    <p className="text-slate-500 mt-4 md:mt-0 max-w-md text-left md:text-right text-sm md:text-base">
                         A selection of recent research papers published in SCIE and Scopus indexed journals.
                     </p>
                 </div>

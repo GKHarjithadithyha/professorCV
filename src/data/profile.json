@@ -5,15 +5,39 @@
   "institution": "Dayananda Sagar University",
   "location": "Bangalore, India",
   "email": "rajamesoft@gmail.com",
-  "phone": "+91 8248361817",
+  "phone": "+91 8248361817 / +91 9626955432",
+  "careerObjective": "Seeking a challenging position to utilize skills and abilities in the field of Teaching and Education, with a focus on professional growth while demonstrating resourcefulness, innovation, and flexibility.",
+  "skills": {
+    "technical": [
+      "Python",
+      "C",
+      "Web Technology"
+    ],
+    "specializations": [
+      "Web Services",
+      "Problem Solving using Python",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Structures"
+    ],
+    "interpersonal": [
+      "Dedication towards work and commitment to deliver good teaching",
+      "Excellent programming skills and proficient in teaching",
+      "Good communication skills, quick learner and good listener",
+      "Very good motivator and self-motivated person"
+    ]
+  },
   "social": {
     "orcid": "0000-0003-4917-6691",
+    "scopus": "57224333742",
+    "wos": "C-2719-2018",
     "google_scholar": "https://scholar.google.co.in/citations?user=eBPJj8oAAAAJ&hl=en"
   },
   "stats": {
-    "scopus_publications": "50+",
-    "scie_wos_publications": "20+",
+    "scopus_publications": 56,
+    "scie_wos_publications": 22,
     "google_scholar_h_index": 15,
-    "scopus_h_index": 13
+    "scopus_h_index": 13,
+    "wos_h_index": 6
   }
 }

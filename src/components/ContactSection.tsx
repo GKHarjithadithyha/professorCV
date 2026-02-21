@@ -7,20 +7,20 @@ import { GlassCard } from "./GlassCard";
 
 export function ContactSection() {
     return (
-        <section id="contact" className="py-24 relative overflow-hidden">
+        <section id="contact" className="py-16 md:py-24 relative overflow-hidden">
             {/* Background decoration */}
-            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] bg-blue-100/40 rounded-full blur-3xl -z-10"></div>
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[300px] h-[300px] md:w-[500px] md:h-[500px] bg-blue-100/40 rounded-full blur-3xl -z-10"></div>
 
             <Container>
                 <div className="max-w-4xl mx-auto">
-                    <div className="text-center mb-12">
-                        <h2 className="text-4xl font-bold text-slate-900 mb-4">Get In Touch</h2>
-                        <p className="text-lg text-slate-600">
+                    <div className="text-center mb-8 md:mb-12">
+                        <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-2 md:mb-4">Get In Touch</h2>
+                        <p className="text-base md:text-lg text-slate-600">
                             Open to research collaborations, speaking engagements, and academic partnerships.
                         </p>
                     </div>
 
-                    <GlassCard className="p-8 md:p-12">
+                    <GlassCard className="p-6 md:p-12">
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
                             <div className="space-y-8">
                                 <div>

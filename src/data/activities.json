@@ -1,0 +1,72 @@
+{
+    "memberships": [
+        {
+            "organization": "IEEE",
+            "type": "Professional Senior Member",
+            "id": "98903965"
+        },
+        {
+            "organization": "ISTE",
+            "type": "Life Time Member",
+            "id": "LM 141403"
+        },
+        {
+            "organization": "ACM",
+            "type": "Professional Member",
+            "id": "4798972"
+        },
+        {
+            "organization": "Internet Society",
+            "type": "Member",
+            "id": "2228723"
+        },
+        {
+            "organization": "IAENG, Hong Kong",
+            "type": "Member",
+            "id": "125962"
+        },
+        {
+            "organization": "IFERP, Chennai",
+            "type": "Member",
+            "id": "PMIN90751236"
+        },
+        {
+            "organization": "Eurasia Research / STRA",
+            "type": "Member",
+            "id": "STRA-M191011"
+        }
+    ],
+    "certifications": [
+        "AI Foundations for Everyone — Coursera (November 2024)",
+        "Generative AI for Executives and Business Leaders — Coursera (June 2024)",
+        "From Excel to Power BI — Coursera (June 2024)",
+        "AWS Cloud Technical Essentials — Coursera (June 2024)",
+        "Graphic Design — Coursera (February 2024)",
+        "Effective Teaching Learning using Social Media — NITTTR, Chandigarh [ICT66] (June 2022)",
+        "Basic Game Development with Levels using Scratch — Coursera (October 2021)",
+        "Python for Data Science — Greyatom Learning Platform (May 2020)",
+        "Blockchain and Cryptocurrency — Coursera (June 2020)",
+        "Python and Java — SoloLearn (July 2019)"
+    ],
+    "reviewerRoles": [
+        "International Journal of Cloud Computing (Springer)",
+        "MDPI: Sensors, Applied Sciences, Sustainability, Symmetry, Mathematics",
+        "IET Microwaves, Antennas & Propagation",
+        "IEEE Communications Standards Magazine",
+        "IEEE Access",
+        "IEEE Design & Test",
+        "IEEE Transactions on Industrial Electronics",
+        "IEEE Transactions on Circuits and Systems",
+        "International Journal of Web Engineering (SCI-Indexed, River Publishers)",
+        "Frontiers in Computer Science",
+        "Al-Bahir Journal for Engineering and Pure Sciences",
+        "International Journal of Engineering Research & Technology (IJERT)",
+        "IEEE International Conference VICFCNT-2021, VIT, India",
+        "IEEE International Conference ICACST'21, SRMIST, Chennai"
+    ],
+    "resourcePerson": [
+        "Expert Talk — \"Exploring Research Gaps in AI and ML for Industry 5.0: Opportunities and Challenges\" SRM Madurai College of Engineering and Technology, Tamil Nadu | July 26, 2024",
+        "Guest Speaker — National-Level Seminar on Applied Soft Computing and Research Challenges SRM Madurai College of Engineering and Technology, Tamil Nadu | May 31, 2023",
+        "Resource Person — \"Introduction to Computer Problem Solving using Python\" SREC, Coimbatore | November 26, 2022"
+    ]
+}

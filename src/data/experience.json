@@ -1,37 +1,30 @@
 [
     {
-        "role": "Postdoctoral Researcher",
-        "institution": "Kuala Lumpur University of Science & Technology",
-        "location": "Malaysia",
-        "period": "Jan 2026 – Present",
-        "description": "Conducting advanced research in AI and IoT systems."
-    },
-    {
-        "role": "Associate Professor",
+        "role": "Associate Professor — CSE",
         "institution": "Dayananda Sagar University",
         "location": "Bangalore, India",
-        "period": "Jun 2025 – Present",
-        "description": "Department of Computer Science and Engineering."
+        "period": "June 2025 – Present (6 Months)",
+        "description": ""
     },
     {
-        "role": "Associate Professor",
+        "role": "Associate Professor — CSE",
         "institution": "Chitkara University",
         "location": "Punjab, India",
-        "period": "Mar 2022 – Jun 2025",
-        "description": "Mentored undergraduate research and supervised projects in AI/ML."
+        "period": "March 2022 – June 2025 (3 Years 2 Months)",
+        "description": "Mentor and Research Supervisor for Undergraduate students."
     },
     {
-        "role": "Assistant Professor",
+        "role": "Assistant Professor — CSE",
         "institution": "SRM Institute of Science and Technology",
-        "location": "Chennai, India",
-        "period": "Mar 2021 – Mar 2022",
-        "description": "Department of Computer Science and Engineering."
+        "location": "Ramapuram Campus, Chennai",
+        "period": "March 2021 – March 2022 (1 Year)",
+        "description": "Nominated as CSI Student Branch Coordinator, Department of CSE."
     },
     {
-        "role": "Assistant Professor",
+        "role": "Assistant Professor — CSE",
         "institution": "Saveetha Engineering College",
-        "location": "Chennai, India",
-        "period": "Aug 2010 – Mar 2021",
-        "description": "Over a decade of teaching and research experience. Served as Exam Cell Coordinator and various administrative roles."
+        "location": "Chennai",
+        "period": "August 2010 – March 2021 (10 Years 7 Months)",
+        "description": "Test Centre Administrator for external online examinations (7 years). Result Analysis Coordinator (Nov 2012 – Nov 2020). Mentor for undergraduate students (June 2013 – June 2019). Exam Cell Coordinator (Aug 2010 – Aug 2017). Nodal Incharge (May 2012 – May 2017). Deputy Warden for Boys Hostel (June 2011 – June 2014)."
     }
 ]
